@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-net-pay-solution
+<br>
+Open the Net Pay Solution (Net Pay Solution.sln) file contained in the Net Pay Solution folder. Center the net pay within it’s label control. Figure 5-15 shows the problem’s output, input, and algorithm. Complete the application by coding it’s algorithm. Include comments in the Code Editor window. Save the solution and then start and test the application.
